@@ -20,16 +20,14 @@ The project addresses the following business problems:
 Project Structure
 
 JP_Morgan_Quantitative_Research_Forage/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-│
 ├── data/
 ├── notebooks/
 ├── src/
-└── results/
+|
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 
 Technologies Used
 
